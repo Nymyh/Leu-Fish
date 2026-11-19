@@ -1,0 +1,39 @@
+html {
+    background-image: url("assets/media/backgrounds/sun.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    background-color: rgba(51, 51, 51, 0.85);
+    color: white;
+    font-family: "Ubuntu Mono", monospace;
+    width: 70%;
+    min-height: 90vh;
+    margin: 30px auto;
+    padding: 25px;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+
+.credits {
+    color: white;
+    font-size: 14px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: #6495ED;
+}
+
+h1 {
+    text-align: center;
+}
